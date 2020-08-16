@@ -1,0 +1,10 @@
+C:\Users\jasuk\source\repos\phoneBookWFA\phoneBookWFA\bin\Debug\phoneBookWFA.exe.config
+C:\Users\jasuk\source\repos\phoneBookWFA\phoneBookWFA\bin\Debug\phoneBookWFA.exe
+C:\Users\jasuk\source\repos\phoneBookWFA\phoneBookWFA\bin\Debug\phoneBookWFA.pdb
+C:\Users\jasuk\source\repos\phoneBookWFA\phoneBookWFA\obj\Debug\phoneBookWFA.csprojAssemblyReference.cache
+C:\Users\jasuk\source\repos\phoneBookWFA\phoneBookWFA\obj\Debug\phoneBookWFA.Form1.resources
+C:\Users\jasuk\source\repos\phoneBookWFA\phoneBookWFA\obj\Debug\phoneBookWFA.Properties.Resources.resources
+C:\Users\jasuk\source\repos\phoneBookWFA\phoneBookWFA\obj\Debug\phoneBookWFA.csproj.GenerateResource.cache
+C:\Users\jasuk\source\repos\phoneBookWFA\phoneBookWFA\obj\Debug\phoneBookWFA.csproj.CoreCompileInputs.cache
+C:\Users\jasuk\source\repos\phoneBookWFA\phoneBookWFA\obj\Debug\phoneBookWFA.exe
+C:\Users\jasuk\source\repos\phoneBookWFA\phoneBookWFA\obj\Debug\phoneBookWFA.pdb

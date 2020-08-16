@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<phoneBookData xmlns="http://tempuri.org/phoneBookData.xsd">
+  <Phonebook>
+    <ID>2</ID>
+    <firstName>Mikko</firstName>
+    <lastName>Mallikas</lastName>
+    <phonenumber>040123123</phonenumber>
+    <address>Ihmetie13</address>
+    <postalCode>65100</postalCode>
+    <City>Vaasa</City>
+  </Phonebook>
+  <Phonebook>
+    <ID>3</ID>
+    <firstName>Pelle</firstName>
+  </Phonebook>
+  <Phonebook>
+    <ID>5</ID>
+    <firstName>Tommi</firstName>
+    <lastName>Jokinen</lastName>
+    <phonenumber>040987987</phonenumber>
+    <address>Ihmetie 13</address>
+  </Phonebook>
+  <Phonebook>
+    <ID>6</ID>
+    <firstName>Jaska</firstName>
+    <lastName>Jokunen</lastName>
+    <phonenumber>0400</phonenumber>
+  </Phonebook>
+  <Phonebook>
+    <ID>7</ID>
+    <firstName>Jooseppi</firstName>
+    <lastName>Mehtälä</lastName>
+    <address>Pullakuja 24</address>
+    <postalCode>65200</postalCode>
+    <City>Vaasa</City>
+  </Phonebook>
+</phoneBookData>
